@@ -18,7 +18,7 @@ const Footer = () => {
               专注健康商品的会员制购物平台，致力于为用户提供优质健康产品和贴心服务。
             </p>
             <p className="text-gray-400 text-sm">
-              © 2024 tata健康科技有限公司. 保留所有权利.
+              © 2025 城市工场（广东）供应链管理有限公司. 保留所有权利.
             </p>
           </div>
           
@@ -35,18 +35,12 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">联系信息</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>客服热线: 400-888-9999</li>
-              <li>邮箱: service@tatastore.com</li>
-              <li>地址: 北京市朝阳区健康大厦</li>
+              <li>客服热线: 86-186 6654 1235</li>
+              <li>邮箱: panyansen@ilovetata.com</li>
+              <li>地址: 广东省佛山市南海区牛梯路19号</li>
               <li>服务时间: 9:00-21:00</li>
             </ul>
           </div>
-        </div>
-        
-        <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-          <p className="text-gray-400 text-sm">
-            本网站为tata会员商店官方网站，用于微信支付接口申请及用户了解应用信息
-          </p>
         </div>
       </div>
     </footer>

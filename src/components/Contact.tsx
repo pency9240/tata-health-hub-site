@@ -19,7 +19,7 @@ const Contact = () => {
               <Mail className="h-8 w-8 text-blue-600" />
             </div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">邮箱地址</h3>
-            <p className="text-gray-600">service@tatastore.com</p>
+            <p className="text-gray-600">panyansen@ilovetata.com</p>
           </div>
           
           <div className="text-center">
@@ -27,7 +27,7 @@ const Contact = () => {
               <Phone className="h-8 w-8 text-green-600" />
             </div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">客服电话</h3>
-            <p className="text-gray-600">400-888-9999</p>
+            <p className="text-gray-600">86-186 6654 1235</p>
           </div>
           
           <div className="text-center">
@@ -35,7 +35,7 @@ const Contact = () => {
               <MapPin className="h-8 w-8 text-purple-600" />
             </div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">公司地址</h3>
-            <p className="text-gray-600">北京市朝阳区健康大厦</p>
+            <p className="text-gray-600">广东省佛山市南海区牛梯路19号</p>
           </div>
           
           <div className="text-center">
@@ -52,7 +52,7 @@ const Contact = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
               <h4 className="font-semibold text-gray-900 mb-2">公司名称</h4>
-              <p className="text-gray-600 mb-4">tata健康科技有限公司</p>
+              <p className="text-gray-600 mb-4">城市工场（广东）供应链管理有限公司</p>
               
               <h4 className="font-semibold text-gray-900 mb-2">业务范围</h4>
               <p className="text-gray-600 mb-4">健康商品销售、会员服务、移动电商平台运营</p>
