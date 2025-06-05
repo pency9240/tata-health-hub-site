@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Leaf } from 'lucide-react';
 
@@ -12,7 +11,7 @@ const Footer = () => {
               <div className="bg-gradient-to-br from-emerald-500 to-teal-600 p-3 rounded-2xl shadow-lg">
                 <Leaf className="h-8 w-8 text-white" />
               </div>
-              <span className="text-3xl font-bold">獭獭会员商店</span>
+              <span className="text-3xl font-bold">挞挞会员商店</span>
             </div>
             <p className="text-slate-300 mb-6 max-w-md text-lg leading-relaxed">
               专注健康商品的会员制购物平台，致力于为用户提供优质健康产品和贴心服务。

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Target, Eye, Users2 } from 'lucide-react';
 
@@ -9,7 +8,7 @@ const About = () => {
         <div className="text-center mb-20">
           <h2 className="text-5xl font-bold text-slate-800 mb-6 tracking-tight">关于我们</h2>
           <p className="text-xl text-slate-600 max-w-4xl mx-auto leading-relaxed">
-            獭獭会员商店致力于为用户提供优质健康商品，通过会员制服务模式，让健康生活更加便捷和实惠
+            挞挞会员商店致力于为用户提供优质健康商品，通过会员制服务模式，让健康生活更加便捷和实惠
           </p>
         </div>
         
@@ -50,7 +49,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mt-12">
             <div>
               <h4 className="text-2xl font-semibold mb-4">应用名称</h4>
-              <p className="text-slate-200 text-lg">獭獭会员商店</p>
+              <p className="text-slate-200 text-lg">挞挞会员商店</p>
             </div>
             <div>
               <h4 className="text-2xl font-semibold mb-4">应用类型</h4>

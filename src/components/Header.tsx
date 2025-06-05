@@ -11,7 +11,7 @@ const Header = () => {
             <div className="bg-gradient-to-br from-emerald-500 to-teal-600 p-3 rounded-2xl shadow-lg">
               <Leaf className="h-7 w-7 text-white" />
             </div>
-            <span className="text-2xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent">獭獭会员商店</span>
+            <span className="text-2xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent">挞挞会员商店</span>
           </div>
           <nav className="hidden md:flex space-x-10">
             <a href="#home" className="text-slate-700 hover:text-emerald-600 transition-all duration-300 font-medium tracking-wide">首页</a>
