@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ShoppingBag, Users, Heart, Sparkles } from 'lucide-react';
 
@@ -18,7 +19,7 @@ const Hero = () => {
           
           <h1 className="text-6xl md:text-7xl font-bold mb-8 tracking-tight">
             <span className="bg-gradient-to-r from-slate-900 via-slate-800 to-emerald-700 bg-clip-text text-transparent">
-              挞挞会员商店
+              獭獭会员商店
             </span>
           </h1>
           
